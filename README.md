@@ -113,13 +113,6 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Jean Pedro**
-
-🔗 GitHub: https://github.com/jjeanpedro03
-
----
 
 ## 📄 Licença
 
